@@ -1,0 +1,5 @@
+1 - form tache ,technique
+2 - tache create $model['experience'] fblast model[profil]
+3 - technique add tech  request remplacih m3a lcode li 3ndi
+4 - flag migration ->nullable
+5 - remlacer les view d edit de experience w profil
