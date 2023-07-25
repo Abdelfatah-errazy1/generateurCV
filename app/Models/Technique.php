@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Technique extends Model
+{
+    use HasFactory;
+    public $table = 'techniques';
+    protected $primaryKey = 'idTech';
+    public $timestamps = false;
+    public const PK = 'idTech';
+}
