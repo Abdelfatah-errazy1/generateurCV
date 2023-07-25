@@ -1,0 +1,46 @@
+<?php
+return [
+
+    'cin' => 'CIN',
+    'prenom' => 'Prenom',
+    'nom'=>'nom',
+    'dateNaissance' => 'Date de Naissance',
+    'civilite' => 'Civilité',
+    'sousTitre' => 'Sous-Titre',
+    'titre' => 'titre',
+
+    
+    'email' => 'Email',
+    'gsm1' => 'GSM1',
+    'gsm2' => 'GSM2',
+    'linkden' => 'LinkedIn',
+    'facebook' => 'Facebook',
+    'instagram' => 'Instagram',
+    'siteWeb' => 'Site Web',
+    'adresse' => 'Adresse',
+    'ville' => 'Ville',
+    'observation' => 'Observation',
+    "gender" => 'genre',
+    "etat" => 'etat',
+    'celibataire' => 'celibataire',
+    'marie' => 'marie',
+    'divorce' => 'divorce',
+    'veuf' => 'veuf',
+    'homme' => 'homme',
+    'femme' => 'femme',
+    'No' => 'Non',
+    'Oui' => 'Oui',
+    'add_a_new_profil' => 'Ajouter un nouveau profil',
+    'createPro' => 'Ajouter un nouveau profil',
+    'edit_form_title' => "Informations du profil",
+    'create_page_title' => 'Ajouter un nouveau profil',
+    'edit_page_title' => 'Informations du profil',
+    'index_page_title' => 'liste des profils',
+    'CV'=>'liste des CV',
+    'addCV' => 'Ajouter un nouveau CV',
+
+    'updatePro' => 'Modifier les informations du profile',
+    'editPro' => 'Modifier les informations du profile',
+    'edit' => 'Modifier les informations du profile',
+
+];
